@@ -1,5 +1,5 @@
-require 'byebug'
-
+require 'byebug' 
+# importing byebug
 class Piece
   attr_reader :color, :position, :board
   attr_writer :board, :position
